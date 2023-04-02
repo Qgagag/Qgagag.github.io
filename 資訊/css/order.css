@@ -1,0 +1,17 @@
+body
+{
+  font-family: Microsoft JhengHei;
+  background-image: url(../images/puff.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+.col-lg-5
+{
+  background-color: rgba(108, 107, 102, 0.552);
+}
+.text
+{ 
+  height: 100vh;
+}
